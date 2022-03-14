@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Rıza Fırat</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alirizafrat&label=Profile%20views&color=0e75b6&style=flat" alt="alirizafrat" /> </p>
+<p align="left">[![discord](https://discordapp.com/api/guilds/592746774171484172/widget.png)](https://discord.gg/saat) <img src="https://komarev.com/ghpvc/?username=alirizafrat&label=Profile%20views&color=0e75b6&style=flat" alt="alirizafrat" /> </p>
 
 
 
