@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alirizafrat&label=Profile%20views&color=0e75b6&style=flat" alt="alirizafrat" /> </p>
 
-[![discord](https://discordapp.com/api/guilds/592746774171484172/widget.png)](https://discord.gg/saat) 
+[![discord](https://discordapp.com/api/guilds/906743221697282058/widget.png)](https://discord.gg/saat) 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
