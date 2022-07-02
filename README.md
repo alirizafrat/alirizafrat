@@ -3,7 +3,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alirizafrat&label=Profile%20views&color=0e75b6&style=flat" alt="alirizafrat" /> </p>
 
-[![discord](https://discordapp.com/api/guilds/906743221697282058/widget.png)](https://discord.gg/saat) 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -25,7 +24,7 @@
 <a href="https://instagram.com/1veya0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1veya0" height="30" width="40" /></a>
 <a href="https://www.behance.net/1veya0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="1veya0" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/alirizafirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alirizafirat" height="30" width="40" /></a>
-<a href="https://discord.gg/saat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saat" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
